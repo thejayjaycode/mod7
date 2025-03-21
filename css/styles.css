@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+
+img {
+    width: 50%;
+    border-radius: 8px;
+}
+
+p {
+    max-width: 600px;
+    margin: auto;
+    line-height: 1.5;
+}
